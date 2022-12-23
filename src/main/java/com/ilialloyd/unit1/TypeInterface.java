@@ -1,4 +1,4 @@
-package com.ilialloyd;
+package com.ilialloyd.unit1;
 
 public class TypeInterface {
 
